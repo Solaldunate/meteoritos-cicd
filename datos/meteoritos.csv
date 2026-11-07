@@ -20002,3 +20002,4 @@ id,name,recclass,mass (g),fall,year,reclat,reclong
 900003,SIMULACIÓN Coordenada,H5,50,Fell,2026,-17.4,-66.2
 900004,SIMULACIÓN ID,H5,60,Found,2026,-17.4,-66.2
 900001,SIMULACIÓN Válida,H5,120,Found,2026,-17.4,-66.2
+900002,SIMULACIÓN Masa,H5,-20,Found,2026,-17.4,-66.2
